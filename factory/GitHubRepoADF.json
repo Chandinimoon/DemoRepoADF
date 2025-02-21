@@ -1,0 +1,9 @@
+{
+	"name": "GitHubRepoADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffc2931f-886e-4d6d-8a9c-91b6d7442554",
+		"tenantId": "0d330ab8-ddc5-452d-9c81-bc87467b9a11"
+	}
+}
